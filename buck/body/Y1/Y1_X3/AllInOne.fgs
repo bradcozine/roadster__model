@@ -1,0 +1,1882 @@
+CLJ++ FIG token file
+DATAFILE AllInOne.fgd
+
+Maximized 1
+WinSize 1294 716
+Viewport 0 0 1 1
+OrthoProj 0
+FixedAspect 1
+ViewingAngle 74.8817 95.7718 0
+BKRGB 0 0 0
+Axis 1 255 255 255
+Colorbar 0 0.5 0.5 10 200
+Legend 0 0.5 0.5 10 70 90 90 0 Arial
+Lighting 1 90 0 0.1 0.1 0.1 1
+XTitle X
+YTitle Z
+ZTitle Y
+XTicks ;-100;0;100;200;300;400;500;600;700;
+YTicks ;0;500;
+ZTicks ;-100;0;100;200;300;400;500;600;700;800;900;
+XTitleFont 12 70 90 90 0 Arial
+YTitleFont 12 70 90 90 0 Arial
+ZTitleFont 12 70 90 90 0 Arial
+TickFont 10 70 90 90 0 Arial
+Grid 1 1 1
+AutoTick 1 1 1
+AutoLim 0 0 0
+XLim -100 700
+YLim 0 800
+ZLim -100 900
+
+BEGIN_BASICSHAPE
+Name Z1_Y1_X1
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 132 225 108
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y1_X2
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 214 174 82
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y1_X3
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 144 73 241
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y1_X4
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 241 187 233
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y2_X1
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 219 60 135
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y2_X2
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 71 222 179
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y2_X3
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 90 125 9
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y2_X4
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 93 212 203
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y3_X1
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 252 150 245
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y3_X2
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 28 219 174
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y3_X3
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 80 238 64
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y3_X4
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 120 54 253
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y4_X1
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 246 158 125
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y4_X2
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 73 220 173
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y4_X3
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 208 107 196
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y4_X4
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 48 183 50
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y5_X1
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 246 34 145
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y5_X2
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 157 225 139
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y5_X3
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 31 218 176
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y5_X4
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 202 153 2
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y6_X1
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 185 114 157
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y6_X2
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 126 197 153
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y6_X3
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 213 233 128
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z1_Y6_X4
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 204 83 191
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z2_Y1_X1
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 103 214 191
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z2_Y1_X2
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 20 214 126
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z2_Y1_X3
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 102 131 239
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z2_Y2_X1
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 255 105 143
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z2_Y2_X2
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 97 205 209
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z2_Y2_X3
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 30 157 156
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z2_Y2_X4
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 230 29 240
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z2_Y3_X4
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 232 57 44
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z3_Y1_X1
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 83 203 201
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z3_Y1_X2
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 116 158 12
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z3_Y2_X1
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 244 213 212
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z3_Y2_X2
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 159 212 164
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z3_Y2_X3
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 89 126 53
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z3_Y2_X4
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 244 204 207
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z3_Y3_X2
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 211 144 45
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z3_Y3_X3
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 72 211 143
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z3_Y3_X4
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 117 230 217
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z3_Y4_X3
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 192 247 43
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z3_Y4_X4
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 120 129 135
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z4_Y2_X1
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 100 84 206
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z4_Y2_X2
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 177 133 62
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z4_Y3_X1
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 103 104 212
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z4_Y3_X2
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 247 74 74
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z4_Y3_X3
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 118 250 22
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z4_Y3_X4
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 229 60 244
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z4_Y4_X1
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 69 211 216
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z4_Y4_X2
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 40 206 11
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z4_Y4_X3
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 245 197 96
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z4_Y4_X4
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 39 138 89
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z4_Y5_X2
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 194 201 205
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z4_Y5_X3
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 104 212 73
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z4_Y5_X4
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 106 121 37
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z4_Y6_X4
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 20 177 59
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z5_Y4_X1
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 106 165 17
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z5_Y4_X2
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 40 193 140
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z5_Y4_X3
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 214 169 11
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z5_Y5_X1
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 135 151 140
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z5_Y5_X2
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 47 241 21
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z5_Y5_X3
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 29 154 149
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z5_Y5_X4
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 193 155 225
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z5_Y6_X1
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 134 194 181
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z5_Y6_X2
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 231 217 35
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z5_Y6_X3
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 209 85 144
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Z5_Y6_X4
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 254 217 113
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+CANVASRGB 255 255 255
+RGB 50 250 50
+BK_RGB 50 250 50
+BK_SOLID 0
+LINE_WIDTH 1
+LINE_STYLE 0
+DRAG 1
+RESIZE 1
+LAYER 0
+TXT { Parts: 68, 3.07 kg
+Printer: 340 h
+Assembly: 2.3 h
+Total time: 343 h }
+5 5 0 0 0
+23 70 90 90 0 Times New Roman
